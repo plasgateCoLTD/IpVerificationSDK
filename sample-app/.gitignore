@@ -1,0 +1,4 @@
+/build
+
+# Ignore JVM heap dump files
+*.hprof
